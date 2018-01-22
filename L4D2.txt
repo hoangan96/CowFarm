@@ -1,0 +1,8 @@
+sv_lan 1 
+sv_allow_lobby_connect_only 0 
+net_start 
+map ...
+
+Connect x.x.x.x
+
+Start => Run => cmd => ipconfig.
